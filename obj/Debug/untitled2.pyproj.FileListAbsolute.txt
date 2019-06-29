@@ -1,0 +1,3 @@
+C:\Users\Acer\PycharmProjects\untitled2\obj\Debug\untitled2.pyproj.CoreCompileInputs.cache
+C:\Users\Acer\PycharmProjects\untitled2\bin\Microsoft.PythonTools.WebRole.dll
+C:\Users\Acer\PycharmProjects\untitled2\bin\wfastcgi.py

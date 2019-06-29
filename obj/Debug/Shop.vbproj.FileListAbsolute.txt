@@ -1,0 +1,2 @@
+C:\Users\Acer\PycharmProjects\untitled2\obj\Debug\Shop.vbprojAssemblyReference.cache
+C:\Users\Acer\PycharmProjects\untitled2\obj\Debug\Shop.vbproj.CoreCompileInputs.cache
