@@ -3,6 +3,7 @@ from django.conf.urls import url
 from shop import views
 
 app_name = 'shop'
+Wowwww
 
 urlpatterns = [
 
